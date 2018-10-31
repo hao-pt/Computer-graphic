@@ -1,2 +1,2 @@
 # Computer-graphic
-Paint project
+Midterm exam
